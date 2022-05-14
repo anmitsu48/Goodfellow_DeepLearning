@@ -6,4 +6,8 @@
 - （和訳）https://www.amazon.co.jp/深層学習-Ian-Goodfellow/dp/4048930621
 - （原本）https://www.deeplearningbook.org
 
-# Chapter.2 
+# 第2章：線形代数
+
+# 第3章：確率と情報理論
+
+# 第4章：数値計算
